@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T09:30:54.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="LNYbsv9FnDrxWznzGQPj" version="13.9.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-10T10:16:53.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="a6vSaCf8NmOR5JYkB9Zr" version="13.9.2" type="github" pages="4">
   <diagram name="产品" id="a7904f86-f2b4-8e86-fa97-74104820619b">
-    <mxGraphModel dx="1185" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,26 +21,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="24794b860abc3c2d-20" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品工厂&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;子产品ID&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;子产品编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;工厂&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="315" width="140" height="110" as="geometry" />
+          <mxGeometry x="450" y="300" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-2" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品仓库&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;子产品ID&lt;br&gt;子产品编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;工厂&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;库存地点&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;库存单位&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="285" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-3" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品评估&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;子产品ID&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;子产品编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;评估范围&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;评估类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;价格确定&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;评估类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;评估级别&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;价格控制&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;周期价格&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;价格单位&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;标准价格&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;移动平均价&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="690" y="-150" width="140" height="240" as="geometry" />
+          <mxGeometry x="690" y="-130" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-4" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品分销渠道&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;子产品ID&lt;br&gt;子产品编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;销售组织&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;分销渠道&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="295" width="140" height="130" as="geometry" />
+          <mxGeometry x="210" y="300" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-5" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品税分类&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;子产品ID&lt;br&gt;子产品编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;发货国&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;税分类1&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;税分类2&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="690" y="120" width="140" height="140" as="geometry" />
+          <mxGeometry x="690" y="130" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="fR69wJohgGnZ8EREvLgE-15" target="fR69wJohgGnZ8EREvLgE-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="-40" />
-              <mxPoint x="590" y="-40" />
-              <mxPoint x="590" y="-16" />
+              <mxPoint x="580" y="4" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,16 +55,15 @@
         <mxCell id="fR69wJohgGnZ8EREvLgE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="fR69wJohgGnZ8EREvLgE-15" target="fR69wJohgGnZ8EREvLgE-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="180" />
-              <mxPoint x="590" y="180" />
-              <mxPoint x="590" y="360" />
-              <mxPoint x="600" y="360" />
+              <mxPoint x="580" y="190" />
+              <mxPoint x="630" y="190" />
+              <mxPoint x="630" y="361" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-31" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fR69wJohgGnZ8EREvLgE-30">
           <mxGeometry x="-0.5814" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10.83" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-32" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fR69wJohgGnZ8EREvLgE-30">
@@ -77,8 +74,8 @@
         <mxCell id="fR69wJohgGnZ8EREvLgE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="fR69wJohgGnZ8EREvLgE-15" target="24794b860abc3c2d-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="260" />
-              <mxPoint x="430" y="260" />
+              <mxPoint x="510" y="270" />
+              <mxPoint x="510" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -92,23 +89,23 @@
             <mxPoint x="12" y="-5.83" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fR69wJohgGnZ8EREvLgE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;exitX=0;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fR69wJohgGnZ8EREvLgE-15" target="fR69wJohgGnZ8EREvLgE-4">
+        <mxCell id="fR69wJohgGnZ8EREvLgE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fR69wJohgGnZ8EREvLgE-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="230" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="390" y="172" />
-              <mxPoint x="390" y="240" />
-              <mxPoint x="120" y="240" />
+              <mxPoint x="470" y="260" />
+              <mxPoint x="290" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-37" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fR69wJohgGnZ8EREvLgE-36">
           <mxGeometry x="-0.5556" y="8" relative="1" as="geometry">
-            <mxPoint x="-18" y="-18" as="offset" />
+            <mxPoint x="17.5" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-38" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fR69wJohgGnZ8EREvLgE-36">
           <mxGeometry x="0.6778" y="-1" relative="1" as="geometry">
-            <mxPoint x="-3" y="31" as="offset" />
+            <mxPoint x="1" y="11.670000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="fR69wJohgGnZ8EREvLgE-15" target="fR69wJohgGnZ8EREvLgE-5">
@@ -121,7 +118,7 @@
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-43" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fR69wJohgGnZ8EREvLgE-42">
           <mxGeometry x="-0.5332" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fR69wJohgGnZ8EREvLgE-44" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fR69wJohgGnZ8EREvLgE-42">
@@ -129,17 +126,135 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fR69wJohgGnZ8EREvLgE-15" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;子产品&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品字码&lt;br&gt;产品编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;生产公司&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;执行标准号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;标准名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;标准序号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号序号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;品名代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;品名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;归属系统&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;搜索项&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;切边标记&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;尺寸精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;表面质量等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;交货状态&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;热处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;截面形状&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;速度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;厚度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;宽度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;长度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;涂油标记&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;表面状态&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;后处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;镀层重量&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;表面结构&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;镀层类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;基板类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;是否光整&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;化学处理分类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;涂层种类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;涂层结构&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;T弯性能&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="360" y="-80" width="140" height="280" as="geometry" />
+        <mxCell id="fR69wJohgGnZ8EREvLgE-15" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;子产品&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品字码&lt;br&gt;产品编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;生产公司&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;执行标准号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;标准名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;标准序号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号序号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;品名代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;品名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;归属系统&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;搜索项&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;切边标记&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;尺寸精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;表面质量等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;交货状态&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;热处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;截面形状&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;速度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;厚度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;宽度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;长度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;涂油标记&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;表面状态&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;后处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;镀层重量&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;表面结构&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;镀层类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;基板类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;是否光整&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;化学处理分类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;涂层种类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;涂层结构&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;T弯性能&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="-55" width="140" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="fR69wJohgGnZ8EREvLgE-39" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品主表&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品编码&lt;br&gt;产品名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;发大类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;生产公司&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;执行标准号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;标准名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号序号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;品名代码&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;品名&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;归属系统&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;搜索项&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;切边标记&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;尺寸精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;表面质量等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;交货状态&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;热处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;截面形状&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;速度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;厚度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;宽度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;长度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;涂油标记&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;表面状态&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;后处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;镀层重量&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;表面结构&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;镀层类型&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;基板类型&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;是否光整&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;化学处理分类&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;涂层种类&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;涂层结构&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;T弯性能&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="-150" width="140" height="250" as="geometry" />
+        <mxCell id="fR69wJohgGnZ8EREvLgE-39" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品主表&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品编码&lt;br&gt;产品名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;发大类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;生产公司&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产线&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;执行标准号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;标准名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;牌号序号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;品名代码&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;品名&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;归属系统&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;搜索项&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;切边标记&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;尺寸精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;表面质量等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;交货状态&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;热处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;截面形状&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;速度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;厚度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;宽度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;长度精度等级&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;涂油标记&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;表面状态&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;后处理方式&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;镀层重量&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;表面结构&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;镀层类型&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;基板类型&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;是否光整&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;化学处理分类&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;涂层种类&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;涂层结构&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;T弯性能&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="-55" width="140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;exitX=0.292;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.649;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fcf4bsCRrediNgJtA9dD-1" target="fR69wJohgGnZ8EREvLgE-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-120" as="sourcePoint" />
+            <mxPoint x="300" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="401" y="-100" />
+              <mxPoint x="301" y="-100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fcf4bsCRrediNgJtA9dD-6">
+          <mxGeometry x="0.7933" y="2" relative="1" as="geometry">
+            <mxPoint x="7.12" y="-6.6899999999999995" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-11" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fcf4bsCRrediNgJtA9dD-6">
+          <mxGeometry x="-0.4067" relative="1" as="geometry">
+            <mxPoint x="8.27" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fcf4bsCRrediNgJtA9dD-1" target="fR69wJohgGnZ8EREvLgE-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="-150" />
+              <mxPoint x="450" y="-100" />
+              <mxPoint x="490" y="-100" />
+              <mxPoint x="490" y="-55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-8" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fcf4bsCRrediNgJtA9dD-7">
+          <mxGeometry x="-0.8098" relative="1" as="geometry">
+            <mxPoint x="3.33" y="18.33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-9" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fcf4bsCRrediNgJtA9dD-7">
+          <mxGeometry x="0.7042" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-19.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-1" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;产品特性&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;小类编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;小类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征项编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征项名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;顺序号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="-280" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="Fcf4bsCRrediNgJtA9dD-2" target="fR69wJohgGnZ8EREvLgE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-5" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-1">
+          <mxGeometry x="0.7931" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-6" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-1">
+          <mxGeometry x="-0.8046" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-2" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;扩展表配置&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主数据类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主数据表名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;扩展表名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;扩展表中文名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;扩展表外键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;顺序号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="-280" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="Fcf4bsCRrediNgJtA9dD-3" target="fR69wJohgGnZ8EREvLgE-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="38" />
+              <mxPoint x="160" y="8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-10" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-3">
+          <mxGeometry x="-0.7564" y="-1" relative="1" as="geometry">
+            <mxPoint x="4.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-11" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-3">
+          <mxGeometry x="0.7821" y="-2" relative="1" as="geometry">
+            <mxPoint x="-5.83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-3" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;扩展属性配置&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主数据类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主数据表名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征项编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征项名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;渲染类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;允许为空&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;API编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;DIM编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;样式&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;属性配置JSON&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-105" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="Fcf4bsCRrediNgJtA9dD-4" target="fR69wJohgGnZ8EREvLgE-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-135" />
+              <mxPoint x="190" y="-95" />
+              <mxPoint x="245" y="-95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-8" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-4">
+          <mxGeometry x="-0.7292" y="-7" relative="1" as="geometry">
+            <mxPoint x="3.33" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-9" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-4">
+          <mxGeometry x="0.875" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-4" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;扩展属性数值&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主数据类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主数据表名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主数据编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征项编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征项名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征值&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特征数值&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="-285" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="Fcf4bsCRrediNgJtA9dD-5" target="fR69wJohgGnZ8EREvLgE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-12" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-2">
+          <mxGeometry x="0.8354" y="-1" relative="1" as="geometry">
+            <mxPoint x="-3.33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Wh6v3cjnC2VReyFtsM3-13" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Wh6v3cjnC2VReyFtsM3-2">
+          <mxGeometry x="-0.8354" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fcf4bsCRrediNgJtA9dD-5" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;类型特性列表&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;大类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特性KEY&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;特性名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;钢厂&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="-30" y="140" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3CnMja0d5-SF09jDG3aU" name="原燃料">
-    <mxGraphModel dx="1185" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8bG26yffX7_b_pMq9kL9-0" />
         <mxCell id="8bG26yffX7_b_pMq9kL9-1" parent="8bG26yffX7_b_pMq9kL9-0" />
@@ -235,7 +350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vPNYW9nAyGcACM08Wwud" name="客户">
-    <mxGraphModel dx="1185" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KLF_rPh8Y2annbZAMSMh-0" />
         <mxCell id="KLF_rPh8Y2annbZAMSMh-1" parent="KLF_rPh8Y2annbZAMSMh-0" />
