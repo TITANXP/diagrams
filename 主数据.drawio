@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T09:11:25.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="gO1pzFuXVlLtdZs5fZAJ" version="13.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-10T09:21:28.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="kbt2ypNF7h3qBLNHM7fE" version="13.9.2" type="github" pages="4">
   <diagram name="产品" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="1185" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -336,6 +336,101 @@
         </mxCell>
         <mxCell id="HwUB45JcI6Gxd3Oxahre-5" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;原燃料税分类&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;发货国&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;税分类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="KLF_rPh8Y2annbZAMSMh-1">
           <mxGeometry x="60" y="-710" width="140" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mXWfZb5LwyHol0UDVFr9" name="供应商">
+    <mxGraphModel dx="1422" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="awk0go5ghsoLpDaSQWxh-0" />
+        <mxCell id="awk0go5ghsoLpDaSQWxh-1" parent="awk0go5ghsoLpDaSQWxh-0" />
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="awk0go5ghsoLpDaSQWxh-1" source="awk0go5ghsoLpDaSQWxh-2" target="GMSe5Xm8wbpt39lW08Ly-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="-740" />
+              <mxPoint x="265" y="-828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-5" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-1">
+          <mxGeometry x="0.8073" y="3" relative="1" as="geometry">
+            <mxPoint x="9" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-6" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-1">
+          <mxGeometry x="-0.8349" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="awk0go5ghsoLpDaSQWxh-1" source="awk0go5ghsoLpDaSQWxh-2" target="iGCMXSiHtKNRiaxkrNjE-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="-700" />
+              <mxPoint x="265" y="-583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-9" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-2">
+          <mxGeometry x="-0.8138" y="3" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-10" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-2">
+          <mxGeometry x="0.6599" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="awk0go5ghsoLpDaSQWxh-1" source="awk0go5ghsoLpDaSQWxh-2" target="GLzr2oP966ogTwaGd2Nn-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="-740" />
+              <mxPoint x="535" y="-828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-7" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-3">
+          <mxGeometry x="-0.5963" y="-2" relative="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-8" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-3">
+          <mxGeometry x="0.8165" y="-3" relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="awk0go5ghsoLpDaSQWxh-1" source="awk0go5ghsoLpDaSQWxh-2" target="Tgp2YJRLpR_GHZ9mL3c7-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="-700" />
+              <mxPoint x="535" y="-583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-11" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-4">
+          <mxGeometry x="-0.6275" y="-5" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-12" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tgp2YJRLpR_GHZ9mL3c7-4">
+          <mxGeometry x="0.6356" y="-4" relative="1" as="geometry">
+            <mxPoint x="15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awk0go5ghsoLpDaSQWxh-2" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;供应商主表&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;归属系统&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;账户组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;税号/营业执照号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;地址信息&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;法人信息&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;商务信息&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;...&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="awk0go5ghsoLpDaSQWxh-1">
+          <mxGeometry x="330" y="-808" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GMSe5Xm8wbpt39lW08Ly-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;联系人&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商ID&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系人姓名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系人职务&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系电话区号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系电话&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="awk0go5ghsoLpDaSQWxh-1">
+          <mxGeometry x="60" y="-900" width="140" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="iGCMXSiHtKNRiaxkrNjE-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;支付信息&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商ID&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行国家&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行机构代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行名称（开户）&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行账号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行户主名称（开户）&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="awk0go5ghsoLpDaSQWxh-1">
+          <mxGeometry x="60" y="-668" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GLzr2oP966ogTwaGd2Nn-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;公司信息&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商ID&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;公司代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;统驭科目&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;付款条件&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;检查双重发票&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="awk0go5ghsoLpDaSQWxh-1">
+          <mxGeometry x="600" y="-898" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Tgp2YJRLpR_GHZ9mL3c7-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;采购信息&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商ID&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;供应商编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;采购组织&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;订单货币&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;方案组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;基于收获的发票验证&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;基于服务的开票验证&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ABC标识&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="awk0go5ghsoLpDaSQWxh-1">
+          <mxGeometry x="600" y="-668" width="140" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
