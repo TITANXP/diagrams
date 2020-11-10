@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T08:53:42.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="SWGEUkNSV1VzWglneQNX" version="13.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-10T09:11:25.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="gO1pzFuXVlLtdZs5fZAJ" version="13.9.2" type="github" pages="3">
   <diagram name="产品" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="1185" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="-360" />
-              <mxPoint x="430" y="-230" />
+              <mxPoint x="430" y="-210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="-340" />
-              <mxPoint x="210" y="-190" />
+              <mxPoint x="210" y="-200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,6 +217,125 @@
         </mxCell>
         <mxCell id="O3CwMnWtcYiZv261iSqo-3" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;原燃料税分类&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;原燃料编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;原燃料编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;发货国&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;税分类1&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;税分类2&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="8bG26yffX7_b_pMq9kL9-1">
           <mxGeometry x="480" y="-560" width="140" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vPNYW9nAyGcACM08Wwud" name="客户">
+    <mxGraphModel dx="1185" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KLF_rPh8Y2annbZAMSMh-0" />
+        <mxCell id="KLF_rPh8Y2annbZAMSMh-1" parent="KLF_rPh8Y2annbZAMSMh-0" />
+        <mxCell id="9gwLhwXGcP0hLKjqah6R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="KLF_rPh8Y2annbZAMSMh-1" source="HwUB45JcI6Gxd3Oxahre-0" target="HwUB45JcI6Gxd3Oxahre-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="-440" />
+              <mxPoint x="490" y="-300" />
+              <mxPoint x="561" y="-300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-13" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gwLhwXGcP0hLKjqah6R-3">
+          <mxGeometry x="-0.8011" y="-1" relative="1" as="geometry">
+            <mxPoint x="-11.67" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-14" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gwLhwXGcP0hLKjqah6R-3">
+          <mxGeometry x="0.4235" y="1" relative="1" as="geometry">
+            <mxPoint x="-6.67" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9gwLhwXGcP0hLKjqah6R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="KLF_rPh8Y2annbZAMSMh-1" source="HwUB45JcI6Gxd3Oxahre-0" target="HwUB45JcI6Gxd3Oxahre-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="-430" />
+              <mxPoint x="255" y="-300" />
+              <mxPoint x="200" y="-300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-8" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gwLhwXGcP0hLKjqah6R-5">
+          <mxGeometry x="-0.703" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-9" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gwLhwXGcP0hLKjqah6R-5">
+          <mxGeometry x="0.6424" y="-1" relative="1" as="geometry">
+            <mxPoint x="5.83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="KLF_rPh8Y2annbZAMSMh-1" source="HwUB45JcI6Gxd3Oxahre-0" target="HwUB45JcI6Gxd3Oxahre-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="-530" />
+              <mxPoint x="505" y="-645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-11" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UPTUR-LGGsZKeOEItRrN-1">
+          <mxGeometry x="-0.837" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-12" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UPTUR-LGGsZKeOEItRrN-1">
+          <mxGeometry x="0.8296" y="-2" relative="1" as="geometry">
+            <mxPoint x="-10.83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="KLF_rPh8Y2annbZAMSMh-1" source="HwUB45JcI6Gxd3Oxahre-0" target="HwUB45JcI6Gxd3Oxahre-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="-480" />
+              <mxPoint x="255" y="-500" />
+              <mxPoint x="200" y="-500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-6" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UPTUR-LGGsZKeOEItRrN-2">
+          <mxGeometry x="-0.4048" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-7" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UPTUR-LGGsZKeOEItRrN-2">
+          <mxGeometry x="0.3214" y="1" relative="1" as="geometry">
+            <mxPoint x="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="KLF_rPh8Y2annbZAMSMh-1" source="HwUB45JcI6Gxd3Oxahre-0" target="HwUB45JcI6Gxd3Oxahre-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="-540" />
+              <mxPoint x="255" y="-660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-4" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UPTUR-LGGsZKeOEItRrN-3">
+          <mxGeometry x="0.6449" y="4" relative="1" as="geometry">
+            <mxPoint x="-20.83" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPTUR-LGGsZKeOEItRrN-5" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UPTUR-LGGsZKeOEItRrN-3">
+          <mxGeometry x="-0.8333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwUB45JcI6Gxd3Oxahre-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;客户主表&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户名称&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;账户组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;地址信息&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;商务信息&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;经营信息&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;...&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="KLF_rPh8Y2annbZAMSMh-1">
+          <mxGeometry x="310" y="-560" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HwUB45JcI6Gxd3Oxahre-1" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;联系人&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系人姓名&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系人职务&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系电话区号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;联系电话&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="KLF_rPh8Y2annbZAMSMh-1">
+          <mxGeometry x="560" y="-710" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HwUB45JcI6Gxd3Oxahre-2" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;支付信息&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;公司代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行国家&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行机构代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行名称（开户）&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行账号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;银行户主名称（开户）&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="KLF_rPh8Y2annbZAMSMh-1">
+          <mxGeometry x="60" y="-570" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HwUB45JcI6Gxd3Oxahre-3" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;公司信息&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;公司代码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;统驭科目&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;已知/协商的委托&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;付款方式&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="KLF_rPh8Y2annbZAMSMh-1">
+          <mxGeometry x="60" y="-330" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HwUB45JcI6Gxd3Oxahre-4" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;销售数据&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;主键&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;销售组织&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;分销渠道&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;产品组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;销售地区&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;价格组（客户）&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;销售组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;销售部门&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;付款条件&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户统计组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;货币&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;账户分配组&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户定价过程&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;价格清单&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;装运条件&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;汇率类型&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="KLF_rPh8Y2annbZAMSMh-1">
+          <mxGeometry x="560" y="-490" width="140" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HwUB45JcI6Gxd3Oxahre-5" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;原燃料税分类&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;客户编码&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;发货国&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;税分类&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="KLF_rPh8Y2annbZAMSMh-1">
+          <mxGeometry x="60" y="-710" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
